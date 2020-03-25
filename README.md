@@ -5,5 +5,5 @@
 I have some virtual PC with logged user who need some help
 I write script to connect to the user easily
 
-You need to put PsExec.exe near script and start rdp_conn.cmd 
-Then select pc and select session ID
+You need to put "PsExec.exe" near script and start "rdp_conn.cmd"
+ Then select PC and select session ID

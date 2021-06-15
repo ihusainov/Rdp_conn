@@ -1,11 +1,11 @@
 @echo off 
-echo   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
-echo   1.  PVM-USER1     192.168.0.101  
-echo   2.  PVM-USER2     192.168.0.102 
-echo   3.  PVM-USER3     192.168.0.103  
-echo   4.  PVM-USER4 	 192.168.0.104  
-echo   5.  PVM-USER5     192.168.0.105  
-echo   ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+echo   ÃšÃ„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„
+echo   1.  PVM-1     192.168.0.101  
+echo   2.  PVM-2     192.168.0.102 
+echo   3.  PVM-3     192.168.0.103  
+echo   4.  PVM-4 	   192.168.0.104  
+echo   5.  PVM-5     192.168.0.105  
+echo   Ã€Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„
 echo   99. EXIT
  
 set /p var=Select remote connection number: 
